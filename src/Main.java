@@ -7,7 +7,8 @@ public class Main {
         System.out.println("For remote june");
         System.out.println("For remote june new");
         System.out.println("For remote june latest");
-
-
+    }
+    public void test(){
+        System.out.println("For test");
     }
 }
