@@ -9,6 +9,6 @@ public class Main {
         System.out.println("For remote june latest");
     }
     public void test(){
-        System.out.println("For test");
+        System.out.println("changes done");
     }
 }
